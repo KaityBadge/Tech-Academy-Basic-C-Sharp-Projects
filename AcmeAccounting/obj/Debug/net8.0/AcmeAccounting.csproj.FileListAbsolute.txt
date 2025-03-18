@@ -1,0 +1,14 @@
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\AcmeAccounting\AcmeAccounting\bin\Debug\net8.0\AcmeAccounting.exe
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\AcmeAccounting\AcmeAccounting\bin\Debug\net8.0\AcmeAccounting.deps.json
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\AcmeAccounting\AcmeAccounting\bin\Debug\net8.0\AcmeAccounting.runtimeconfig.json
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\AcmeAccounting\AcmeAccounting\bin\Debug\net8.0\AcmeAccounting.dll
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\AcmeAccounting\AcmeAccounting\bin\Debug\net8.0\AcmeAccounting.pdb
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\AcmeAccounting\AcmeAccounting\obj\Debug\net8.0\AcmeAccounting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\AcmeAccounting\AcmeAccounting\obj\Debug\net8.0\AcmeAccounting.AssemblyInfoInputs.cache
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\AcmeAccounting\AcmeAccounting\obj\Debug\net8.0\AcmeAccounting.AssemblyInfo.cs
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\AcmeAccounting\AcmeAccounting\obj\Debug\net8.0\AcmeAccounting.csproj.CoreCompileInputs.cache
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\AcmeAccounting\AcmeAccounting\obj\Debug\net8.0\AcmeAccounting.dll
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\AcmeAccounting\AcmeAccounting\obj\Debug\net8.0\refint\AcmeAccounting.dll
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\AcmeAccounting\AcmeAccounting\obj\Debug\net8.0\AcmeAccounting.pdb
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\AcmeAccounting\AcmeAccounting\obj\Debug\net8.0\AcmeAccounting.genruntimeconfig.cache
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\AcmeAccounting\AcmeAccounting\obj\Debug\net8.0\ref\AcmeAccounting.dll
