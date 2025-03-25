@@ -1,0 +1,15 @@
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\CarInsuranceApproval\CarInsuranceApproval\bin\Debug\net8.0\CarInsuranceApproval.exe
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\CarInsuranceApproval\CarInsuranceApproval\bin\Debug\net8.0\CarInsuranceApproval.deps.json
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\CarInsuranceApproval\CarInsuranceApproval\bin\Debug\net8.0\CarInsuranceApproval.runtimeconfig.json
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\CarInsuranceApproval\CarInsuranceApproval\bin\Debug\net8.0\CarInsuranceApproval.dll
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\CarInsuranceApproval\CarInsuranceApproval\bin\Debug\net8.0\CarInsuranceApproval.pdb
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\CarInsuranceApproval\CarInsuranceApproval\obj\Debug\net8.0\CarInsuranceApproval.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\CarInsuranceApproval\CarInsuranceApproval\obj\Debug\net8.0\CarInsuranceApproval.AssemblyInfoInputs.cache
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\CarInsuranceApproval\CarInsuranceApproval\obj\Debug\net8.0\CarInsuranceApproval.AssemblyInfo.cs
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\CarInsuranceApproval\CarInsuranceApproval\obj\Debug\net8.0\CarInsuranceApproval.csproj.CoreCompileInputs.cache
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\CarInsuranceApproval\CarInsuranceApproval\obj\Debug\net8.0\CarInsuranceApproval.sourcelink.json
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\CarInsuranceApproval\CarInsuranceApproval\obj\Debug\net8.0\CarInsuranceApproval.dll
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\CarInsuranceApproval\CarInsuranceApproval\obj\Debug\net8.0\refint\CarInsuranceApproval.dll
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\CarInsuranceApproval\CarInsuranceApproval\obj\Debug\net8.0\CarInsuranceApproval.pdb
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\CarInsuranceApproval\CarInsuranceApproval\obj\Debug\net8.0\CarInsuranceApproval.genruntimeconfig.cache
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\CarInsuranceApproval\CarInsuranceApproval\obj\Debug\net8.0\ref\CarInsuranceApproval.dll
