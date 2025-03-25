@@ -1,0 +1,15 @@
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\Anonymous Income Comparison\Anonymous Income Comparison\bin\Debug\net8.0\Anonymous Income Comparison.exe
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\Anonymous Income Comparison\Anonymous Income Comparison\bin\Debug\net8.0\Anonymous Income Comparison.deps.json
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\Anonymous Income Comparison\Anonymous Income Comparison\bin\Debug\net8.0\Anonymous Income Comparison.runtimeconfig.json
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\Anonymous Income Comparison\Anonymous Income Comparison\bin\Debug\net8.0\Anonymous Income Comparison.dll
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\Anonymous Income Comparison\Anonymous Income Comparison\bin\Debug\net8.0\Anonymous Income Comparison.pdb
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\Anonymous Income Comparison\Anonymous Income Comparison\obj\Debug\net8.0\Anonymous Income Comparison.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\Anonymous Income Comparison\Anonymous Income Comparison\obj\Debug\net8.0\Anonymous Income Comparison.AssemblyInfoInputs.cache
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\Anonymous Income Comparison\Anonymous Income Comparison\obj\Debug\net8.0\Anonymous Income Comparison.AssemblyInfo.cs
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\Anonymous Income Comparison\Anonymous Income Comparison\obj\Debug\net8.0\Anonymous Income Comparison.csproj.CoreCompileInputs.cache
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\Anonymous Income Comparison\Anonymous Income Comparison\obj\Debug\net8.0\Anonymous Income Comparison.sourcelink.json
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\Anonymous Income Comparison\Anonymous Income Comparison\obj\Debug\net8.0\Anonymous Income Comparison.dll
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\Anonymous Income Comparison\Anonymous Income Comparison\obj\Debug\net8.0\refint\Anonymous Income Comparison.dll
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\Anonymous Income Comparison\Anonymous Income Comparison\obj\Debug\net8.0\Anonymous Income Comparison.pdb
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\Anonymous Income Comparison\Anonymous Income Comparison\obj\Debug\net8.0\Anonymous Income Comparison.genruntimeconfig.cache
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\Anonymous Income Comparison\Anonymous Income Comparison\obj\Debug\net8.0\ref\Anonymous Income Comparison.dll
