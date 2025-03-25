@@ -1,11 +1,4 @@
-﻿int num1 = 6;
-int num2 = 3;
-Console.WriteLine(num1 % num2);
-Console.ReadLine();
-
-
-
-Console.WriteLine("The Tech Academy");
+﻿Console.WriteLine("The Tech Academy");
 Console.WriteLine("Student Daily Report");
 
 //Im using the new line code \n to give space between each question
