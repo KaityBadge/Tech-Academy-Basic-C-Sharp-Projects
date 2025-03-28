@@ -1,0 +1,15 @@
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\PackageShippingQuote\PackageShippingQuote\bin\Debug\net8.0\PackageShippingQuote.exe
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\PackageShippingQuote\PackageShippingQuote\bin\Debug\net8.0\PackageShippingQuote.deps.json
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\PackageShippingQuote\PackageShippingQuote\bin\Debug\net8.0\PackageShippingQuote.runtimeconfig.json
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\PackageShippingQuote\PackageShippingQuote\bin\Debug\net8.0\PackageShippingQuote.dll
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\PackageShippingQuote\PackageShippingQuote\bin\Debug\net8.0\PackageShippingQuote.pdb
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\PackageShippingQuote\PackageShippingQuote\obj\Debug\net8.0\PackageShippingQuote.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\PackageShippingQuote\PackageShippingQuote\obj\Debug\net8.0\PackageShippingQuote.AssemblyInfoInputs.cache
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\PackageShippingQuote\PackageShippingQuote\obj\Debug\net8.0\PackageShippingQuote.AssemblyInfo.cs
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\PackageShippingQuote\PackageShippingQuote\obj\Debug\net8.0\PackageShippingQuote.csproj.CoreCompileInputs.cache
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\PackageShippingQuote\PackageShippingQuote\obj\Debug\net8.0\PackageShippingQuote.sourcelink.json
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\PackageShippingQuote\PackageShippingQuote\obj\Debug\net8.0\PackageShippingQuote.dll
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\PackageShippingQuote\PackageShippingQuote\obj\Debug\net8.0\refint\PackageShippingQuote.dll
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\PackageShippingQuote\PackageShippingQuote\obj\Debug\net8.0\PackageShippingQuote.pdb
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\PackageShippingQuote\PackageShippingQuote\obj\Debug\net8.0\PackageShippingQuote.genruntimeconfig.cache
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\PackageShippingQuote\PackageShippingQuote\obj\Debug\net8.0\ref\PackageShippingQuote.dll
