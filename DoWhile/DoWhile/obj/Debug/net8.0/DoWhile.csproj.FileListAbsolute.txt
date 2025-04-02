@@ -1,0 +1,15 @@
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\DoWhile\DoWhile\bin\Debug\net8.0\DoWhile.exe
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\DoWhile\DoWhile\bin\Debug\net8.0\DoWhile.deps.json
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\DoWhile\DoWhile\bin\Debug\net8.0\DoWhile.runtimeconfig.json
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\DoWhile\DoWhile\bin\Debug\net8.0\DoWhile.dll
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\DoWhile\DoWhile\bin\Debug\net8.0\DoWhile.pdb
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\DoWhile\DoWhile\obj\Debug\net8.0\DoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\DoWhile\DoWhile\obj\Debug\net8.0\DoWhile.AssemblyInfoInputs.cache
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\DoWhile\DoWhile\obj\Debug\net8.0\DoWhile.AssemblyInfo.cs
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\DoWhile\DoWhile\obj\Debug\net8.0\DoWhile.csproj.CoreCompileInputs.cache
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\DoWhile\DoWhile\obj\Debug\net8.0\DoWhile.sourcelink.json
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\DoWhile\DoWhile\obj\Debug\net8.0\DoWhile.dll
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\DoWhile\DoWhile\obj\Debug\net8.0\refint\DoWhile.dll
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\DoWhile\DoWhile\obj\Debug\net8.0\DoWhile.pdb
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\DoWhile\DoWhile\obj\Debug\net8.0\DoWhile.genruntimeconfig.cache
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\DoWhile\DoWhile\obj\Debug\net8.0\ref\DoWhile.dll
