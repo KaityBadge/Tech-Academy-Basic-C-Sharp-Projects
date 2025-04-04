@@ -18,49 +18,47 @@ namespace BooleanLoops
             //creates an integer that stores '3' as numberOfGuesses
             int numberOfGuesses = 3;
 
-            //creates a boolean variable that is true when userGuess is tiger
-            //if userGuess is not tiger then this isGuessed is false
-            bool isGuessed = userGuess == "tiger";
+            //initialize isGuessed to false
+            bool isGuessed = false;
 
             Console.WriteLine("You have 3 chances to guess my favorite animal in the zoo \n\n READY. SET. GUESS: ");
-            //converts user input to lower case and stores its value as userGuess (this string is no longer empty)
-            userGuess = Console.ReadLine().ToLower();
 
-            //if the users guess is tiger then the console will display following statement and program ends
-            if (userGuess == myAnimal)
+            //Begins the guessing loop (Do all this while the condition of the WHILE statement is true)
+            do
             {
-                Console.WriteLine("Yep! You guessed it!");
-            }
-            //otherwise; if the users guess IS NOT tiger do the following
-            else if (userGuess != myAnimal)
-            {
-                //WHILE users guess IS NOT tiger AND the number of guesses is greater than 1 then loop through the following code
-                while (userGuess != myAnimal && numberOfGuesses > 1)
+                //converts user input to lower case and stores its value as userGuess (this string is no longer empty)
+                userGuess = Console.ReadLine().ToLower();
+                //checks if the users guess is correct
+                isGuessed = userGuess == myAnimal;
+
+                //IF isGuessed is tiger, display string in console.
+                if (isGuessed)
                 {
-                    // -- means to deacrease by one. So numberOfGuesses is decreased by one
+                    Console.WriteLine("Yep! You guessed it!");
+                }
+                //ELSE if isGuessed is not tiger
+                else
+                {
+                    //decreases the number of guesses by one
                     numberOfGuesses--;
-                    //lets the user know that they guessed wrong and displays how many guesses they have left
-                    Console.WriteLine("ERRR Wrong! You have " + numberOfGuesses + " guesses left.");
-                    //prompts user to guess again and converts it to lower case
-                    userGuess = Console.ReadLine().ToLower();
-                    //if the user guess is tiger print the following line in the console
-                    if (userGuess == myAnimal)
+                    //IF they still have guesses left display this message and how many guesses are left
+                    if (numberOfGuesses > 0)
                     {
-                        Console.WriteLine("Yep! You guessed it!");
+                        Console.WriteLine("ERRR Wrong! You have " + numberOfGuesses + " guesses left.");
                     }
-                    //stop doing the loop if number of guesses is equal to 1 and display the following in the console.
-                    else if (numberOfGuesses == 1)
+                    //Otherwise display there are no more guesses
+                    else
                     {
                         Console.WriteLine("You're all out of guesses. The answer was " + myAnimal);
-                        break;
                     }
                 }
-            }
-
-
+                                
+            } 
+            //this loop will continue WHILE isGuessed is false (the user guesses wrong) AND there are more than 0 guesses
+            while (!isGuessed && numberOfGuesses > 0);
 
             Console.Read();
-            
+
         }
     }
 }
