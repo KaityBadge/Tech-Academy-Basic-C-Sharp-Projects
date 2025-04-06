@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PackageShippingQuote")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6078d7da1c2469b640a7b9bfdced2567e079b973")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7de8fd67978178f2d4520c144e218755ee0e8900")]
 [assembly: System.Reflection.AssemblyProductAttribute("PackageShippingQuote")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PackageShippingQuote")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

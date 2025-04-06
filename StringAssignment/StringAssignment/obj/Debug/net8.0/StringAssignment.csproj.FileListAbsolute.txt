@@ -1,0 +1,15 @@
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\StringAssignment\StringAssignment\bin\Debug\net8.0\StringAssignment.exe
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\StringAssignment\StringAssignment\bin\Debug\net8.0\StringAssignment.deps.json
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\StringAssignment\StringAssignment\bin\Debug\net8.0\StringAssignment.runtimeconfig.json
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\StringAssignment\StringAssignment\bin\Debug\net8.0\StringAssignment.dll
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\StringAssignment\StringAssignment\bin\Debug\net8.0\StringAssignment.pdb
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\StringAssignment\StringAssignment\obj\Debug\net8.0\StringAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\StringAssignment\StringAssignment\obj\Debug\net8.0\StringAssignment.AssemblyInfoInputs.cache
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\StringAssignment\StringAssignment\obj\Debug\net8.0\StringAssignment.AssemblyInfo.cs
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\StringAssignment\StringAssignment\obj\Debug\net8.0\StringAssignment.csproj.CoreCompileInputs.cache
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\StringAssignment\StringAssignment\obj\Debug\net8.0\StringAssignment.sourcelink.json
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\StringAssignment\StringAssignment\obj\Debug\net8.0\StringAssignment.dll
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\StringAssignment\StringAssignment\obj\Debug\net8.0\refint\StringAssignment.dll
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\StringAssignment\StringAssignment\obj\Debug\net8.0\StringAssignment.pdb
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\StringAssignment\StringAssignment\obj\Debug\net8.0\StringAssignment.genruntimeconfig.cache
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\StringAssignment\StringAssignment\obj\Debug\net8.0\ref\StringAssignment.dll

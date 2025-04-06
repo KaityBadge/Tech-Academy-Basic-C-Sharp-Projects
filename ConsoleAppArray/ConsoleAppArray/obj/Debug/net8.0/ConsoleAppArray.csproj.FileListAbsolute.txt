@@ -1,0 +1,15 @@
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppArray\ConsoleAppArray\bin\Debug\net8.0\ConsoleAppArray.exe
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppArray\ConsoleAppArray\bin\Debug\net8.0\ConsoleAppArray.deps.json
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppArray\ConsoleAppArray\bin\Debug\net8.0\ConsoleAppArray.runtimeconfig.json
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppArray\ConsoleAppArray\bin\Debug\net8.0\ConsoleAppArray.dll
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppArray\ConsoleAppArray\bin\Debug\net8.0\ConsoleAppArray.pdb
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppArray\ConsoleAppArray\obj\Debug\net8.0\ConsoleAppArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppArray\ConsoleAppArray\obj\Debug\net8.0\ConsoleAppArray.AssemblyInfoInputs.cache
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppArray\ConsoleAppArray\obj\Debug\net8.0\ConsoleAppArray.AssemblyInfo.cs
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppArray\ConsoleAppArray\obj\Debug\net8.0\ConsoleAppArray.csproj.CoreCompileInputs.cache
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppArray\ConsoleAppArray\obj\Debug\net8.0\ConsoleAppArray.sourcelink.json
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppArray\ConsoleAppArray\obj\Debug\net8.0\ConsoleAppArray.dll
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppArray\ConsoleAppArray\obj\Debug\net8.0\refint\ConsoleAppArray.dll
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppArray\ConsoleAppArray\obj\Debug\net8.0\ConsoleAppArray.pdb
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppArray\ConsoleAppArray\obj\Debug\net8.0\ConsoleAppArray.genruntimeconfig.cache
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppArray\ConsoleAppArray\obj\Debug\net8.0\ref\ConsoleAppArray.dll
