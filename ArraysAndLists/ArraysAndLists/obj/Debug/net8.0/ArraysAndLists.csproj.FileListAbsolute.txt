@@ -1,0 +1,15 @@
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\ArraysAndLists\ArraysAndLists\obj\Debug\net8.0\ArraysAndLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\ArraysAndLists\ArraysAndLists\obj\Debug\net8.0\ArraysAndLists.AssemblyInfoInputs.cache
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\ArraysAndLists\ArraysAndLists\obj\Debug\net8.0\ArraysAndLists.AssemblyInfo.cs
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\ArraysAndLists\ArraysAndLists\obj\Debug\net8.0\ArraysAndLists.csproj.CoreCompileInputs.cache
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\ArraysAndLists\ArraysAndLists\obj\Debug\net8.0\ArraysAndLists.sourcelink.json
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\ArraysAndLists\ArraysAndLists\bin\Debug\net8.0\ArraysAndLists.exe
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\ArraysAndLists\ArraysAndLists\bin\Debug\net8.0\ArraysAndLists.deps.json
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\ArraysAndLists\ArraysAndLists\bin\Debug\net8.0\ArraysAndLists.runtimeconfig.json
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\ArraysAndLists\ArraysAndLists\bin\Debug\net8.0\ArraysAndLists.dll
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\ArraysAndLists\ArraysAndLists\bin\Debug\net8.0\ArraysAndLists.pdb
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\ArraysAndLists\ArraysAndLists\obj\Debug\net8.0\ArraysAndLists.dll
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\ArraysAndLists\ArraysAndLists\obj\Debug\net8.0\refint\ArraysAndLists.dll
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\ArraysAndLists\ArraysAndLists\obj\Debug\net8.0\ArraysAndLists.pdb
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\ArraysAndLists\ArraysAndLists\obj\Debug\net8.0\ArraysAndLists.genruntimeconfig.cache
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\ArraysAndLists\ArraysAndLists\obj\Debug\net8.0\ref\ArraysAndLists.dll
