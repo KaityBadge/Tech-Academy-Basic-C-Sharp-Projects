@@ -1,0 +1,15 @@
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\StringAndIntegers\StringAndIntegers\bin\Debug\net8.0\StringAndIntegers.exe
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\StringAndIntegers\StringAndIntegers\bin\Debug\net8.0\StringAndIntegers.deps.json
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\StringAndIntegers\StringAndIntegers\bin\Debug\net8.0\StringAndIntegers.runtimeconfig.json
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\StringAndIntegers\StringAndIntegers\bin\Debug\net8.0\StringAndIntegers.dll
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\StringAndIntegers\StringAndIntegers\bin\Debug\net8.0\StringAndIntegers.pdb
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\StringAndIntegers\StringAndIntegers\obj\Debug\net8.0\StringAndIntegers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\StringAndIntegers\StringAndIntegers\obj\Debug\net8.0\StringAndIntegers.AssemblyInfoInputs.cache
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\StringAndIntegers\StringAndIntegers\obj\Debug\net8.0\StringAndIntegers.AssemblyInfo.cs
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\StringAndIntegers\StringAndIntegers\obj\Debug\net8.0\StringAndIntegers.csproj.CoreCompileInputs.cache
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\StringAndIntegers\StringAndIntegers\obj\Debug\net8.0\StringAndIntegers.sourcelink.json
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\StringAndIntegers\StringAndIntegers\obj\Debug\net8.0\StringAndIntegers.dll
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\StringAndIntegers\StringAndIntegers\obj\Debug\net8.0\refint\StringAndIntegers.dll
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\StringAndIntegers\StringAndIntegers\obj\Debug\net8.0\StringAndIntegers.pdb
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\StringAndIntegers\StringAndIntegers\obj\Debug\net8.0\StringAndIntegers.genruntimeconfig.cache
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\StringAndIntegers\StringAndIntegers\obj\Debug\net8.0\ref\StringAndIntegers.dll
