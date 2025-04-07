@@ -1,0 +1,15 @@
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\SixPartAssignment\SixPartAssignment\bin\Debug\net8.0\SixPartAssignment.exe
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\SixPartAssignment\SixPartAssignment\bin\Debug\net8.0\SixPartAssignment.deps.json
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\SixPartAssignment\SixPartAssignment\bin\Debug\net8.0\SixPartAssignment.runtimeconfig.json
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\SixPartAssignment\SixPartAssignment\bin\Debug\net8.0\SixPartAssignment.dll
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\SixPartAssignment\SixPartAssignment\bin\Debug\net8.0\SixPartAssignment.pdb
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\SixPartAssignment\SixPartAssignment\obj\Debug\net8.0\SixPartAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\SixPartAssignment\SixPartAssignment\obj\Debug\net8.0\SixPartAssignment.AssemblyInfoInputs.cache
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\SixPartAssignment\SixPartAssignment\obj\Debug\net8.0\SixPartAssignment.AssemblyInfo.cs
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\SixPartAssignment\SixPartAssignment\obj\Debug\net8.0\SixPartAssignment.csproj.CoreCompileInputs.cache
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\SixPartAssignment\SixPartAssignment\obj\Debug\net8.0\SixPartAssignment.sourcelink.json
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\SixPartAssignment\SixPartAssignment\obj\Debug\net8.0\SixPartAssignment.dll
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\SixPartAssignment\SixPartAssignment\obj\Debug\net8.0\refint\SixPartAssignment.dll
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\SixPartAssignment\SixPartAssignment\obj\Debug\net8.0\SixPartAssignment.pdb
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\SixPartAssignment\SixPartAssignment\obj\Debug\net8.0\SixPartAssignment.genruntimeconfig.cache
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\SixPartAssignment\SixPartAssignment\obj\Debug\net8.0\ref\SixPartAssignment.dll

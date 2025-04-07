@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SixPartAssignment/1.0.0": {
+        "runtime": {
+          "SixPartAssignment.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SixPartAssignment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
