@@ -1,0 +1,15 @@
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\CallingMethodsAssignment\CallingMethodsAssignment\bin\Debug\net8.0\CallingMethodsAssignment.exe
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\CallingMethodsAssignment\CallingMethodsAssignment\bin\Debug\net8.0\CallingMethodsAssignment.deps.json
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\CallingMethodsAssignment\CallingMethodsAssignment\bin\Debug\net8.0\CallingMethodsAssignment.runtimeconfig.json
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\CallingMethodsAssignment\CallingMethodsAssignment\bin\Debug\net8.0\CallingMethodsAssignment.dll
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\CallingMethodsAssignment\CallingMethodsAssignment\bin\Debug\net8.0\CallingMethodsAssignment.pdb
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\CallingMethodsAssignment\CallingMethodsAssignment\obj\Debug\net8.0\CallingMethodsAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\CallingMethodsAssignment\CallingMethodsAssignment\obj\Debug\net8.0\CallingMethodsAssignment.AssemblyInfoInputs.cache
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\CallingMethodsAssignment\CallingMethodsAssignment\obj\Debug\net8.0\CallingMethodsAssignment.AssemblyInfo.cs
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\CallingMethodsAssignment\CallingMethodsAssignment\obj\Debug\net8.0\CallingMethodsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\CallingMethodsAssignment\CallingMethodsAssignment\obj\Debug\net8.0\CallingMethodsAssignment.sourcelink.json
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\CallingMethodsAssignment\CallingMethodsAssignment\obj\Debug\net8.0\CallingMethodsAssignment.dll
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\CallingMethodsAssignment\CallingMethodsAssignment\obj\Debug\net8.0\refint\CallingMethodsAssignment.dll
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\CallingMethodsAssignment\CallingMethodsAssignment\obj\Debug\net8.0\CallingMethodsAssignment.pdb
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\CallingMethodsAssignment\CallingMethodsAssignment\obj\Debug\net8.0\CallingMethodsAssignment.genruntimeconfig.cache
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\CallingMethodsAssignment\CallingMethodsAssignment\obj\Debug\net8.0\ref\CallingMethodsAssignment.dll
