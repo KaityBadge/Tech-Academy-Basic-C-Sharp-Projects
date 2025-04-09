@@ -1,0 +1,15 @@
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\TwentyOne\bin\Debug\net8.0\TwentyOne.exe
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\TwentyOne\bin\Debug\net8.0\TwentyOne.deps.json
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\TwentyOne\bin\Debug\net8.0\TwentyOne.runtimeconfig.json
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\TwentyOne\bin\Debug\net8.0\TwentyOne.dll
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\TwentyOne\bin\Debug\net8.0\TwentyOne.pdb
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\TwentyOne\obj\Debug\net8.0\TwentyOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\TwentyOne\obj\Debug\net8.0\TwentyOne.AssemblyInfoInputs.cache
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\TwentyOne\obj\Debug\net8.0\TwentyOne.AssemblyInfo.cs
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\TwentyOne\obj\Debug\net8.0\TwentyOne.csproj.CoreCompileInputs.cache
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\TwentyOne\obj\Debug\net8.0\TwentyOne.sourcelink.json
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\TwentyOne\obj\Debug\net8.0\TwentyOne.dll
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\TwentyOne\obj\Debug\net8.0\refint\TwentyOne.dll
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\TwentyOne\obj\Debug\net8.0\TwentyOne.pdb
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\TwentyOne\obj\Debug\net8.0\TwentyOne.genruntimeconfig.cache
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\TwentyOne\obj\Debug\net8.0\ref\TwentyOne.dll
