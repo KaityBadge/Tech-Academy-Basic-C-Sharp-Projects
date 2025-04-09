@@ -1,0 +1,15 @@
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\MainMethodAssignment\MainMethodAssignment\bin\Debug\net8.0\MainMethodAssignment.exe
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\MainMethodAssignment\MainMethodAssignment\bin\Debug\net8.0\MainMethodAssignment.deps.json
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\MainMethodAssignment\MainMethodAssignment\bin\Debug\net8.0\MainMethodAssignment.runtimeconfig.json
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\MainMethodAssignment\MainMethodAssignment\bin\Debug\net8.0\MainMethodAssignment.dll
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\MainMethodAssignment\MainMethodAssignment\bin\Debug\net8.0\MainMethodAssignment.pdb
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\MainMethodAssignment\MainMethodAssignment\obj\Debug\net8.0\MainMethodAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\MainMethodAssignment\MainMethodAssignment\obj\Debug\net8.0\MainMethodAssignment.AssemblyInfoInputs.cache
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\MainMethodAssignment\MainMethodAssignment\obj\Debug\net8.0\MainMethodAssignment.AssemblyInfo.cs
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\MainMethodAssignment\MainMethodAssignment\obj\Debug\net8.0\MainMethodAssignment.csproj.CoreCompileInputs.cache
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\MainMethodAssignment\MainMethodAssignment\obj\Debug\net8.0\MainMethodAssignment.sourcelink.json
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\MainMethodAssignment\MainMethodAssignment\obj\Debug\net8.0\MainMethodAssignment.dll
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\MainMethodAssignment\MainMethodAssignment\obj\Debug\net8.0\refint\MainMethodAssignment.dll
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\MainMethodAssignment\MainMethodAssignment\obj\Debug\net8.0\MainMethodAssignment.pdb
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\MainMethodAssignment\MainMethodAssignment\obj\Debug\net8.0\MainMethodAssignment.genruntimeconfig.cache
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\MainMethodAssignment\MainMethodAssignment\obj\Debug\net8.0\ref\MainMethodAssignment.dll
