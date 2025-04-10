@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kaity\\OneDrive\\Desktop\\Basic_C#_Programs\\Tech-Academy-Basic-C-Sharp-Projects\\ClassMethod\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1EFBAC-8E67-4BC9-A10D-1A6589B7F1DC}|ClassMethod\\ClassMethod.csproj|c:\\users\\kaity\\onedrive\\desktop\\basic_c#_programs\\tech-academy-basic-c-sharp-projects\\classmethod\\classmethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F1EFBAC-8E67-4BC9-A10D-1A6589B7F1DC}|ClassMethod\\ClassMethod.csproj|solutionrelative:classmethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1EFBAC-8E67-4BC9-A10D-1A6589B7F1DC}|ClassMethod\\ClassMethod.csproj|c:\\users\\kaity\\onedrive\\desktop\\basic_c#_programs\\tech-academy-basic-c-sharp-projects\\classmethod\\classmethod\\divideoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F1EFBAC-8E67-4BC9-A10D-1A6589B7F1DC}|ClassMethod\\ClassMethod.csproj|solutionrelative:classmethod\\divideoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DivideOperation.cs",
+              "DocumentMoniker": "C:\\Users\\kaity\\OneDrive\\Desktop\\Basic_C#_Programs\\Tech-Academy-Basic-C-Sharp-Projects\\ClassMethod\\ClassMethod\\DivideOperation.cs",
+              "RelativeDocumentMoniker": "ClassMethod\\DivideOperation.cs",
+              "ToolTip": "C:\\Users\\kaity\\OneDrive\\Desktop\\Basic_C#_Programs\\Tech-Academy-Basic-C-Sharp-Projects\\ClassMethod\\ClassMethod\\DivideOperation.cs*",
+              "RelativeToolTip": "ClassMethod\\DivideOperation.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T17:58:58.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaity\\OneDrive\\Desktop\\Basic_C#_Programs\\Tech-Academy-Basic-C-Sharp-Projects\\ClassMethod\\ClassMethod\\Program.cs",
+              "RelativeDocumentMoniker": "ClassMethod\\Program.cs",
+              "ToolTip": "C:\\Users\\kaity\\OneDrive\\Desktop\\Basic_C#_Programs\\Tech-Academy-Basic-C-Sharp-Projects\\ClassMethod\\ClassMethod\\Program.cs*",
+              "RelativeToolTip": "ClassMethod\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T17:56:27.096Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
