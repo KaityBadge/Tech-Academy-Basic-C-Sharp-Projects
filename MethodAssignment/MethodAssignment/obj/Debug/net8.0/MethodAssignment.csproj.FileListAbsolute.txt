@@ -1,0 +1,15 @@
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\MethodAssignment\MethodAssignment\bin\Debug\net8.0\MethodAssignment.exe
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\MethodAssignment\MethodAssignment\bin\Debug\net8.0\MethodAssignment.deps.json
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\MethodAssignment\MethodAssignment\bin\Debug\net8.0\MethodAssignment.runtimeconfig.json
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\MethodAssignment\MethodAssignment\bin\Debug\net8.0\MethodAssignment.dll
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\MethodAssignment\MethodAssignment\bin\Debug\net8.0\MethodAssignment.pdb
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\MethodAssignment\MethodAssignment\obj\Debug\net8.0\MethodAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\MethodAssignment\MethodAssignment\obj\Debug\net8.0\MethodAssignment.AssemblyInfoInputs.cache
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\MethodAssignment\MethodAssignment\obj\Debug\net8.0\MethodAssignment.AssemblyInfo.cs
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\MethodAssignment\MethodAssignment\obj\Debug\net8.0\MethodAssignment.csproj.CoreCompileInputs.cache
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\MethodAssignment\MethodAssignment\obj\Debug\net8.0\MethodAssignment.sourcelink.json
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\MethodAssignment\MethodAssignment\obj\Debug\net8.0\MethodAssignment.dll
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\MethodAssignment\MethodAssignment\obj\Debug\net8.0\refint\MethodAssignment.dll
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\MethodAssignment\MethodAssignment\obj\Debug\net8.0\MethodAssignment.pdb
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\MethodAssignment\MethodAssignment\obj\Debug\net8.0\MethodAssignment.genruntimeconfig.cache
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\MethodAssignment\MethodAssignment\obj\Debug\net8.0\ref\MethodAssignment.dll
