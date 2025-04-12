@@ -14,7 +14,7 @@ namespace MethodsAndObjects
             employee.FirstName = "Sample";
             employee.LastName = "Student";
 
-            //call the SayName (superclass) method on the employee object
+            //call the SayName method on the employee object
             employee.SayName();
 
             Console.ReadLine();

@@ -6,16 +6,15 @@ using System.Threading.Tasks;
 
 namespace MethodsAndObjects
 {
-    public class Person
+    //made this class abstract so it cannot be instantiated, only inherited from
+    public abstract class Person
     {
         //Properties of the Person class
         public string FirstName { get; set; }
         public string LastName { get; set; }
 
-        //Displays full name in console
-        public void SayName()
-        {
-            Console.WriteLine("Name: " + FirstName + " " + LastName);
-        }
+        //this method is abstract so it must be implemented in the derived class
+        public abstract void SayName();
+       
     }   
 }
