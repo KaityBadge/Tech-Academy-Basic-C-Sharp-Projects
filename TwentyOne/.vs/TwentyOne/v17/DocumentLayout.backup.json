@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\kaity\\OneDrive\\Desktop\\Basic_C#_Programs\\Tech-Academy-Basic-C-Sharp-Projects\\TwentyOne\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1C6C3D33-C990-41CC-8870-4E27B0F3C857}|TwentyOne\\TwentyOne.csproj|c:\\users\\kaity\\onedrive\\desktop\\basic_c#_programs\\tech-academy-basic-c-sharp-projects\\twentyone\\twentyone\\twentyonegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C6C3D33-C990-41CC-8870-4E27B0F3C857}|TwentyOne\\TwentyOne.csproj|solutionrelative:twentyone\\twentyonegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1C6C3D33-C990-41CC-8870-4E27B0F3C857}|TwentyOne\\TwentyOne.csproj|c:\\users\\kaity\\onedrive\\desktop\\basic_c#_programs\\tech-academy-basic-c-sharp-projects\\twentyone\\twentyone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C6C3D33-C990-41CC-8870-4E27B0F3C857}|TwentyOne\\TwentyOne.csproj|solutionrelative:twentyone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C6C3D33-C990-41CC-8870-4E27B0F3C857}|TwentyOne\\TwentyOne.csproj|c:\\users\\kaity\\onedrive\\desktop\\basic_c#_programs\\tech-academy-basic-c-sharp-projects\\twentyone\\twentyone\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C6C3D33-C990-41CC-8870-4E27B0F3C857}|TwentyOne\\TwentyOne.csproj|solutionrelative:twentyone\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1C6C3D33-C990-41CC-8870-4E27B0F3C857}|TwentyOne\\TwentyOne.csproj|c:\\users\\kaity\\onedrive\\desktop\\basic_c#_programs\\tech-academy-basic-c-sharp-projects\\twentyone\\twentyone\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,7 +38,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "TwentyOneGame.cs",
+              "DocumentMoniker": "C:\\Users\\kaity\\OneDrive\\Desktop\\Basic_C#_Programs\\Tech-Academy-Basic-C-Sharp-Projects\\TwentyOne\\TwentyOne\\TwentyOneGame.cs",
+              "RelativeDocumentMoniker": "TwentyOne\\TwentyOneGame.cs",
+              "ToolTip": "C:\\Users\\kaity\\OneDrive\\Desktop\\Basic_C#_Programs\\Tech-Academy-Basic-C-Sharp-Projects\\TwentyOne\\TwentyOne\\TwentyOneGame.cs",
+              "RelativeToolTip": "TwentyOne\\TwentyOneGame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T19:07:04.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\kaity\\OneDrive\\Desktop\\Basic_C#_Programs\\Tech-Academy-Basic-C-Sharp-Projects\\TwentyOne\\TwentyOne\\Game.cs",
+              "RelativeDocumentMoniker": "TwentyOne\\Game.cs",
+              "ToolTip": "C:\\Users\\kaity\\OneDrive\\Desktop\\Basic_C#_Programs\\Tech-Academy-Basic-C-Sharp-Projects\\TwentyOne\\TwentyOne\\Game.cs",
+              "RelativeToolTip": "TwentyOne\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T18:56:38.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Deck.cs",
               "DocumentMoniker": "C:\\Users\\kaity\\OneDrive\\Desktop\\Basic_C#_Programs\\Tech-Academy-Basic-C-Sharp-Projects\\TwentyOne\\TwentyOne\\Deck.cs",
               "RelativeDocumentMoniker": "TwentyOne\\Deck.cs",
@@ -38,12 +72,11 @@
               "RelativeToolTip": "TwentyOne\\Deck.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwC0AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T23:43:19.53Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-08T23:43:19.53Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Card.cs",
               "DocumentMoniker": "C:\\Users\\kaity\\OneDrive\\Desktop\\Basic_C#_Programs\\Tech-Academy-Basic-C-Sharp-Projects\\TwentyOne\\TwentyOne\\Card.cs",
               "RelativeDocumentMoniker": "TwentyOne\\Card.cs",
@@ -55,13 +88,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\kaity\\OneDrive\\Desktop\\Basic_C#_Programs\\Tech-Academy-Basic-C-Sharp-Projects\\TwentyOne\\TwentyOne\\Program.cs",
               "RelativeDocumentMoniker": "TwentyOne\\Program.cs",
-              "ToolTip": "C:\\Users\\kaity\\OneDrive\\Desktop\\Basic_C#_Programs\\Tech-Academy-Basic-C-Sharp-Projects\\TwentyOne\\TwentyOne\\Program.cs*",
-              "RelativeToolTip": "TwentyOne\\Program.cs*",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCcAAAAJAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\kaity\\OneDrive\\Desktop\\Basic_C#_Programs\\Tech-Academy-Basic-C-Sharp-Projects\\TwentyOne\\TwentyOne\\Program.cs",
+              "RelativeToolTip": "TwentyOne\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-07T22:42:08.295Z",
               "EditorCaption": ""
