@@ -11,11 +11,21 @@ namespace TwentyOne
     {
         static void Main(string[] args)
         {
+            //create a new game and add a new player to it
+            Game game = new TwentyOneGame();
+            game.Players = new List<Player>();
+            Player player = new Player();
+            player.Name = "Jesse";
+            game += player;
+            game -= player;
+
+
+
             //instantiates an object called deck of class Deck
             Deck deck = new Deck();
 
             //calls the methdod Shuffle on the deck object itself
-            deck.Shuffle();
+            deck.Shuffle(3);
 
             //different shuffle methods are commented out below to test one at a time
 
@@ -35,7 +45,7 @@ namespace TwentyOne
             }
 
             Console.WriteLine(deck.Cards.Count); //displays the number of cards in the deck
-            Console.WriteLine("Times shuffled: {0}"); //the brackets are a placeholder for the value of timesShuffled
+            //Console.WriteLine("Times shuffled: {0}"); //the brackets are a placeholder for the value of timesShuffled
             Console.ReadLine();
         }
 

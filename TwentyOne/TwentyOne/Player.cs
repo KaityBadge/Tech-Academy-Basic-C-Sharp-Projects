@@ -13,5 +13,18 @@ namespace TwentyOne
         public string Name { get; set; }
 
         public bool isActivelyPlaying { get; set; }
+
+        //this plus overload operator takes two operands (game and player)
+        public static Game operator+ (Game game, Player player)
+        {
+            game.Players.Add(player);
+            return game;
+        }
+        //This overloads the minus operator
+        public static Game operator- (Game game, Player player)
+        {
+            game.Players.Remove(player);
+            return game;
+        }
     }
 }

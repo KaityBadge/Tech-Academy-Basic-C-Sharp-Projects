@@ -20,9 +20,9 @@ namespace TwentyOne
             base.ListPlayers();
         }
         // This method is implemented from the IWalkAway interface
-        public void walkaway(Player player)
+        public void WalkAway(Player player)
         {
-           throw new NotImplementedException();
+            throw new NotImplementedException();
         }
     }
 }
