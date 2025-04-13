@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace MethodsAndObjects
 {
-    /// The semicolon means the Employee class inherits from Person class
-    public class Employee : Person 
+    /// The semicolon means the Employee class inherits from Person abstract class and the IQuittable interface
+    public class Employee : Person , IQuittable
     {
         //Properties of the Employee class
         public int Id { get; set; }
@@ -19,5 +19,10 @@ namespace MethodsAndObjects
             Console.WriteLine("Name: " + FirstName + " " + LastName);
         }
 
+        //this method is implementing the Quit method from the IQuittable interface
+        public void Quit()
+        {
+            Console.WriteLine(FirstName + " " + LastName + " just quit!");
+        }
     }
 }

@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\kaity\\OneDrive\\Desktop\\Basic_C#_Programs\\Tech-Academy-Basic-C-Sharp-Projects\\MethodsAndObjects\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2AA53E09-EEBD-4250-9D3E-FF5D4BB45C4A}|MethodsAndObjects\\MethodsAndObjects.csproj|c:\\users\\kaity\\onedrive\\desktop\\basic_c#_programs\\tech-academy-basic-c-sharp-projects\\methodsandobjects\\methodsandobjects\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AA53E09-EEBD-4250-9D3E-FF5D4BB45C4A}|MethodsAndObjects\\MethodsAndObjects.csproj|solutionrelative:methodsandobjects\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2AA53E09-EEBD-4250-9D3E-FF5D4BB45C4A}|MethodsAndObjects\\MethodsAndObjects.csproj|c:\\users\\kaity\\onedrive\\desktop\\basic_c#_programs\\tech-academy-basic-c-sharp-projects\\methodsandobjects\\methodsandobjects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2AA53E09-EEBD-4250-9D3E-FF5D4BB45C4A}|MethodsAndObjects\\MethodsAndObjects.csproj|solutionrelative:methodsandobjects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2AA53E09-EEBD-4250-9D3E-FF5D4BB45C4A}|MethodsAndObjects\\MethodsAndObjects.csproj|c:\\users\\kaity\\onedrive\\desktop\\basic_c#_programs\\tech-academy-basic-c-sharp-projects\\methodsandobjects\\methodsandobjects\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2AA53E09-EEBD-4250-9D3E-FF5D4BB45C4A}|MethodsAndObjects\\MethodsAndObjects.csproj|solutionrelative:methodsandobjects\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AA53E09-EEBD-4250-9D3E-FF5D4BB45C4A}|MethodsAndObjects\\MethodsAndObjects.csproj|c:\\users\\kaity\\onedrive\\desktop\\basic_c#_programs\\tech-academy-basic-c-sharp-projects\\methodsandobjects\\methodsandobjects\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AA53E09-EEBD-4250-9D3E-FF5D4BB45C4A}|MethodsAndObjects\\MethodsAndObjects.csproj|solutionrelative:methodsandobjects\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AA53E09-EEBD-4250-9D3E-FF5D4BB45C4A}|MethodsAndObjects\\MethodsAndObjects.csproj|c:\\users\\kaity\\onedrive\\desktop\\basic_c#_programs\\tech-academy-basic-c-sharp-projects\\methodsandobjects\\methodsandobjects\\iquittable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AA53E09-EEBD-4250-9D3E-FF5D4BB45C4A}|MethodsAndObjects\\MethodsAndObjects.csproj|solutionrelative:methodsandobjects\\iquittable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,20 +34,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "IQuittable.cs",
+              "DocumentMoniker": "C:\\Users\\kaity\\OneDrive\\Desktop\\Basic_C#_Programs\\Tech-Academy-Basic-C-Sharp-Projects\\MethodsAndObjects\\MethodsAndObjects\\IQuittable.cs",
+              "RelativeDocumentMoniker": "MethodsAndObjects\\IQuittable.cs",
+              "ToolTip": "C:\\Users\\kaity\\OneDrive\\Desktop\\Basic_C#_Programs\\Tech-Academy-Basic-C-Sharp-Projects\\MethodsAndObjects\\MethodsAndObjects\\IQuittable.cs",
+              "RelativeToolTip": "MethodsAndObjects\\IQuittable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T00:11:37.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\kaity\\OneDrive\\Desktop\\Basic_C#_Programs\\Tech-Academy-Basic-C-Sharp-Projects\\MethodsAndObjects\\MethodsAndObjects\\Employee.cs",
               "RelativeDocumentMoniker": "MethodsAndObjects\\Employee.cs",
               "ToolTip": "C:\\Users\\kaity\\OneDrive\\Desktop\\Basic_C#_Programs\\Tech-Academy-Basic-C-Sharp-Projects\\MethodsAndObjects\\MethodsAndObjects\\Employee.cs",
               "RelativeToolTip": "MethodsAndObjects\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-10T19:32:54.577Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Person.cs",
               "DocumentMoniker": "C:\\Users\\kaity\\OneDrive\\Desktop\\Basic_C#_Programs\\Tech-Academy-Basic-C-Sharp-Projects\\MethodsAndObjects\\MethodsAndObjects\\Person.cs",
               "RelativeDocumentMoniker": "MethodsAndObjects\\Person.cs",
@@ -56,13 +73,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\kaity\\OneDrive\\Desktop\\Basic_C#_Programs\\Tech-Academy-Basic-C-Sharp-Projects\\MethodsAndObjects\\MethodsAndObjects\\Program.cs",
               "RelativeDocumentMoniker": "MethodsAndObjects\\Program.cs",
               "ToolTip": "C:\\Users\\kaity\\OneDrive\\Desktop\\Basic_C#_Programs\\Tech-Academy-Basic-C-Sharp-Projects\\MethodsAndObjects\\MethodsAndObjects\\Program.cs",
               "RelativeToolTip": "MethodsAndObjects\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-10T19:16:08.915Z",
               "EditorCaption": ""
