@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace TwentyOne
 {
-    /// This class inherits from the Game class
-    public class TwentyOneGame : Game
+    /// This class inherits from the Game class AND implements the IWalkAway interface
+    public class TwentyOneGame : Game , IWalkAway
     {
         //override means that this method is overriding the abstract method in the base class (Game class)
         public override void Play()
@@ -18,6 +18,11 @@ namespace TwentyOne
         {
             Console.WriteLine("21 Players:");
             base.ListPlayers();
+        }
+        // This method is implemented from the IWalkAway interface
+        public void walkaway(Player player)
+        {
+           throw new NotImplementedException();
         }
     }
 }
