@@ -8,14 +8,33 @@ namespace TwentyOne
 {
     public class Card
     {
-        // Constructor; default values if none are assigned to Card
-        public Card()
-        {
-            Suit = "Spades";
-            Face = "Two";
-        }
-        public string Suit { get; set; }
-        public string Face { get; set; }
+        public Suit Suit { get; set; } //changed from string to Suit because emun is the data type of suit
+        public Face Face { get; set; } //Face Face because enum is the data type of face
 
+    }
+
+    public enum Suit
+    {
+        Clubs,
+        Diamonds,
+        Hearts,
+        Spades
+    }
+
+    public enum Face
+    {
+        Two,
+        Three,
+        Four,
+        Five,
+        Six,
+        Seven,
+        Eight,
+        Nine,
+        Ten,
+        Jack,
+        Queen,
+        King,
+        Ace
     }
 }

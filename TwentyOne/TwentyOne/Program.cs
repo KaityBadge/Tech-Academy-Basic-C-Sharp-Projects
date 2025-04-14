@@ -11,16 +11,15 @@ namespace TwentyOne
     {
         static void Main(string[] args)
         {
-            //create a new game and add a new player to it
-            Game game = new TwentyOneGame();
-            game.Players = new List<Player>();
-            Player player = new Player();
-            player.Name = "Jesse";
-            game += player;
-            game -= player;
+            ////create a new game and add a new player to it
+            //Game game = new TwentyOneGame();
+            //game.Players = new List<Player>();
+            //Player player = new Player();
+            //player.Name = "Jesse";
+            //game += player;
+            //game -= player;
 
-
-
+        
             //instantiates an object called deck of class Deck
             Deck deck = new Deck();
 
