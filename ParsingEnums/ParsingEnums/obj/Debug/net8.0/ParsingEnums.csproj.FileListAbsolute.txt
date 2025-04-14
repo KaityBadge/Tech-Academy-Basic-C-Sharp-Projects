@@ -1,0 +1,15 @@
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\ParsingEnums\ParsingEnums\bin\Debug\net8.0\ParsingEnums.exe
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\ParsingEnums\ParsingEnums\bin\Debug\net8.0\ParsingEnums.deps.json
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\ParsingEnums\ParsingEnums\bin\Debug\net8.0\ParsingEnums.runtimeconfig.json
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\ParsingEnums\ParsingEnums\bin\Debug\net8.0\ParsingEnums.dll
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\ParsingEnums\ParsingEnums\bin\Debug\net8.0\ParsingEnums.pdb
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\ParsingEnums\ParsingEnums\obj\Debug\net8.0\ParsingEnums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\ParsingEnums\ParsingEnums\obj\Debug\net8.0\ParsingEnums.AssemblyInfoInputs.cache
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\ParsingEnums\ParsingEnums\obj\Debug\net8.0\ParsingEnums.AssemblyInfo.cs
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\ParsingEnums\ParsingEnums\obj\Debug\net8.0\ParsingEnums.csproj.CoreCompileInputs.cache
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\ParsingEnums\ParsingEnums\obj\Debug\net8.0\ParsingEnums.sourcelink.json
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\ParsingEnums\ParsingEnums\obj\Debug\net8.0\ParsingEnums.dll
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\ParsingEnums\ParsingEnums\obj\Debug\net8.0\refint\ParsingEnums.dll
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\ParsingEnums\ParsingEnums\obj\Debug\net8.0\ParsingEnums.pdb
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\ParsingEnums\ParsingEnums\obj\Debug\net8.0\ParsingEnums.genruntimeconfig.cache
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\ParsingEnums\ParsingEnums\obj\Debug\net8.0\ref\ParsingEnums.dll
