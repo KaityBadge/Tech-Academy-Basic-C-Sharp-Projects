@@ -1,0 +1,15 @@
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\InputLogAssignment\InputLogAssignment\bin\Debug\net8.0\InputLogAssignment.exe
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\InputLogAssignment\InputLogAssignment\bin\Debug\net8.0\InputLogAssignment.deps.json
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\InputLogAssignment\InputLogAssignment\bin\Debug\net8.0\InputLogAssignment.runtimeconfig.json
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\InputLogAssignment\InputLogAssignment\bin\Debug\net8.0\InputLogAssignment.dll
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\InputLogAssignment\InputLogAssignment\bin\Debug\net8.0\InputLogAssignment.pdb
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\InputLogAssignment\InputLogAssignment\obj\Debug\net8.0\InputLogAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\InputLogAssignment\InputLogAssignment\obj\Debug\net8.0\InputLogAssignment.AssemblyInfoInputs.cache
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\InputLogAssignment\InputLogAssignment\obj\Debug\net8.0\InputLogAssignment.AssemblyInfo.cs
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\InputLogAssignment\InputLogAssignment\obj\Debug\net8.0\InputLogAssignment.csproj.CoreCompileInputs.cache
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\InputLogAssignment\InputLogAssignment\obj\Debug\net8.0\InputLogAssignment.sourcelink.json
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\InputLogAssignment\InputLogAssignment\obj\Debug\net8.0\InputLogAssignment.dll
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\InputLogAssignment\InputLogAssignment\obj\Debug\net8.0\refint\InputLogAssignment.dll
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\InputLogAssignment\InputLogAssignment\obj\Debug\net8.0\InputLogAssignment.pdb
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\InputLogAssignment\InputLogAssignment\obj\Debug\net8.0\InputLogAssignment.genruntimeconfig.cache
+C:\Users\kaity\OneDrive\Desktop\Basic_C#_Programs\Tech-Academy-Basic-C-Sharp-Projects\InputLogAssignment\InputLogAssignment\obj\Debug\net8.0\ref\InputLogAssignment.dll
