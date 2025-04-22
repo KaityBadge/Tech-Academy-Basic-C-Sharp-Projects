@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TwentyOne
+namespace Casino
 {
     public class Deck
     {
@@ -30,18 +30,6 @@ namespace TwentyOne
                 }
             }
 
-            ////loop through the suits and faces lists to create a deck of 52 cards
-            ////create a nested for loop
-            //foreach (string face in Faces) //for each face in Faces list
-            //{
-            //    foreach (string suit in Suits)
-            //    {
-            //        Card card = new Card(); //create a new card
-            //        card.Suit = suit; //assign the suit to the card
-            //        card.Face = face; //assign the face to the card 
-            //        Cards.Add(card); //add the card to the empty list created above called Cards
-            //    }
-            //}
         }
 
         // Gives the Deck class a public property of type List<Card> (list of cards)    
