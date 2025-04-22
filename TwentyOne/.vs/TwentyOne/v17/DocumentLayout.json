@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{39E22757-5F10-4368-87B5-BE31A09CF597}|Casino\\Casino.csproj|solutionrelative:casino\\dealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{39E22757-5F10-4368-87B5-BE31A09CF597}|Casino\\Casino.csproj|c:\\users\\kaity\\onedrive\\desktop\\basic_c#_programs\\tech-academy-basic-c-sharp-projects\\twentyone\\casino\\fraudexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39E22757-5F10-4368-87B5-BE31A09CF597}|Casino\\Casino.csproj|solutionrelative:casino\\fraudexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39E22757-5F10-4368-87B5-BE31A09CF597}|Casino\\Casino.csproj|c:\\users\\kaity\\onedrive\\desktop\\basic_c#_programs\\tech-academy-basic-c-sharp-projects\\twentyone\\casino\\twentyonegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39E22757-5F10-4368-87B5-BE31A09CF597}|Casino\\Casino.csproj|solutionrelative:casino\\twentyonegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1C6C3D33-C990-41CC-8870-4E27B0F3C857}|TwentyOne\\TwentyOne.csproj|c:\\users\\kaity\\onedrive\\desktop\\basic_c#_programs\\tech-academy-basic-c-sharp-projects\\twentyone\\twentyone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C6C3D33-C990-41CC-8870-4E27B0F3C857}|TwentyOne\\TwentyOne.csproj|solutionrelative:twentyone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -32,23 +40,10 @@
               "RelativeDocumentMoniker": "Casino\\Dealer.cs",
               "ToolTip": "C:\\Users\\kaity\\OneDrive\\Desktop\\Basic_C#_Programs\\Tech-Academy-Basic-C-Sharp-Projects\\TwentyOne\\Casino\\Dealer.cs",
               "RelativeToolTip": "Casino\\Dealer.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAABlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-19T01:57:06.179Z",
               "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Player.cs",
-              "DocumentMoniker": "C:\\Users\\kaity\\OneDrive\\Desktop\\Basic_C#_Programs\\Tech-Academy-Basic-C-Sharp-Projects\\TwentyOne\\Casino\\Player.cs",
-              "RelativeDocumentMoniker": "Casino\\Player.cs",
-              "ToolTip": "C:\\Users\\kaity\\OneDrive\\Desktop\\Basic_C#_Programs\\Tech-Academy-Basic-C-Sharp-Projects\\TwentyOne\\Casino\\Player.cs",
-              "RelativeToolTip": "Casino\\Player.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T17:35:23.786Z",
               "EditorCaption": ""
             },
             {
@@ -58,12 +53,50 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "FraudException.cs",
+              "DocumentMoniker": "C:\\Users\\kaity\\OneDrive\\Desktop\\Basic_C#_Programs\\Tech-Academy-Basic-C-Sharp-Projects\\TwentyOne\\Casino\\FraudException.cs",
+              "RelativeDocumentMoniker": "Casino\\FraudException.cs",
+              "ToolTip": "C:\\Users\\kaity\\OneDrive\\Desktop\\Basic_C#_Programs\\Tech-Academy-Basic-C-Sharp-Projects\\TwentyOne\\Casino\\FraudException.cs",
+              "RelativeToolTip": "Casino\\FraudException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T19:33:03.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TwentyOneGame.cs",
+              "DocumentMoniker": "C:\\Users\\kaity\\OneDrive\\Desktop\\Basic_C#_Programs\\Tech-Academy-Basic-C-Sharp-Projects\\TwentyOne\\Casino\\TwentyOneGame.cs",
+              "RelativeDocumentMoniker": "Casino\\TwentyOneGame.cs",
+              "ToolTip": "C:\\Users\\kaity\\OneDrive\\Desktop\\Basic_C#_Programs\\Tech-Academy-Basic-C-Sharp-Projects\\TwentyOne\\Casino\\TwentyOneGame.cs",
+              "RelativeToolTip": "Casino\\TwentyOneGame.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwC0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T19:10:38.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\kaity\\OneDrive\\Desktop\\Basic_C#_Programs\\Tech-Academy-Basic-C-Sharp-Projects\\TwentyOne\\Casino\\Player.cs",
+              "RelativeDocumentMoniker": "Casino\\Player.cs",
+              "ToolTip": "C:\\Users\\kaity\\OneDrive\\Desktop\\Basic_C#_Programs\\Tech-Academy-Basic-C-Sharp-Projects\\TwentyOne\\Casino\\Player.cs",
+              "RelativeToolTip": "Casino\\Player.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T17:35:23.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\kaity\\OneDrive\\Desktop\\Basic_C#_Programs\\Tech-Academy-Basic-C-Sharp-Projects\\TwentyOne\\TwentyOne\\Program.cs",
               "RelativeDocumentMoniker": "TwentyOne\\Program.cs",
               "ToolTip": "C:\\Users\\kaity\\OneDrive\\Desktop\\Basic_C#_Programs\\Tech-Academy-Basic-C-Sharp-Projects\\TwentyOne\\TwentyOne\\Program.cs",
               "RelativeToolTip": "TwentyOne\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAABlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAABoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-07T22:42:08.295Z",
               "EditorCaption": ""

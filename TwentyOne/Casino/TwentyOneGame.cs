@@ -26,11 +26,25 @@ namespace Casino.TwentyOne
             Dealer.Stay = false; //the dealer is not staying, they are playing
             Dealer.Deck = new Deck(); //the dealer gets a new deck
             Dealer.Deck.Shuffle(1); //the deck is shuffled once
-            Console.WriteLine("Place your bet!");
-
+            
             foreach (Player player in Players)
             {
-                int bet = Convert.ToInt32(Console.ReadLine());
+                bool validAnswer = false; //this variable is used to check if the answer is valid
+                int bet = 0; //this variable is used to store the players bet
+                while (!validAnswer) //while the answer is not valid
+                {
+                    Console.Write("{0}, how much would you like to bet? ", player.Name); //asks the player how much they want to bet
+                    validAnswer = int.TryParse(Console.ReadLine(), out bet); //tryparse casts input from string to int in the case user enters a string
+                    if (!validAnswer) //if the input is still not a valid integer
+                    {
+                        Console.WriteLine("Please enter digits only, no decimals or symbols.");
+                    }    
+                }
+                if (bet < 0) //if the bet is less than 0 throw new exception
+                {
+                    throw new FraudException();
+                }
+               
                 bool successfullyBet = player.Bet(bet); //passes in the amount the player is betting to the Bet method
                 if (!successfullyBet) //if the bet was not successful (successfullyBet is false)
                 {
