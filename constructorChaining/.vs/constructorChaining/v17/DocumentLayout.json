@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kaity\\OneDrive\\Desktop\\Basic_C#_Programs\\Tech-Academy-Basic-C-Sharp-Projects\\constructorChaining\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D64AC7DF-789E-4C07-B5C4-0896D3D1C980}|constructorChaining\\constructorChaining.csproj|c:\\users\\kaity\\onedrive\\desktop\\basic_c#_programs\\tech-academy-basic-c-sharp-projects\\constructorchaining\\constructorchaining\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D64AC7DF-789E-4C07-B5C4-0896D3D1C980}|constructorChaining\\constructorChaining.csproj|solutionrelative:constructorchaining\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D64AC7DF-789E-4C07-B5C4-0896D3D1C980}|constructorChaining\\constructorChaining.csproj|c:\\users\\kaity\\onedrive\\desktop\\basic_c#_programs\\tech-academy-basic-c-sharp-projects\\constructorchaining\\constructorchaining\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D64AC7DF-789E-4C07-B5C4-0896D3D1C980}|constructorChaining\\constructorChaining.csproj|solutionrelative:constructorchaining\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\kaity\\OneDrive\\Desktop\\Basic_C#_Programs\\Tech-Academy-Basic-C-Sharp-Projects\\constructorChaining\\constructorChaining\\Employee.cs",
+              "RelativeDocumentMoniker": "constructorChaining\\Employee.cs",
+              "ToolTip": "C:\\Users\\kaity\\OneDrive\\Desktop\\Basic_C#_Programs\\Tech-Academy-Basic-C-Sharp-Projects\\constructorChaining\\constructorChaining\\Employee.cs",
+              "RelativeToolTip": "constructorChaining\\Employee.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T18:18:19.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaity\\OneDrive\\Desktop\\Basic_C#_Programs\\Tech-Academy-Basic-C-Sharp-Projects\\constructorChaining\\constructorChaining\\Program.cs",
+              "RelativeDocumentMoniker": "constructorChaining\\Program.cs",
+              "ToolTip": "C:\\Users\\kaity\\OneDrive\\Desktop\\Basic_C#_Programs\\Tech-Academy-Basic-C-Sharp-Projects\\constructorChaining\\constructorChaining\\Program.cs",
+              "RelativeToolTip": "constructorChaining\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T18:01:39.2Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
