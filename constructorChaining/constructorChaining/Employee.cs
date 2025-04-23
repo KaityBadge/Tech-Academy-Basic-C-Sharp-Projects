@@ -17,8 +17,6 @@ namespace constructorChaining
         // uses :this() to call the constructor that takes one parameter
         public Employee() : this ("Employee 1")
         {
-            Console.WriteLine("Default constructor is called.");
-
         }
 
 
@@ -36,8 +34,7 @@ namespace constructorChaining
         public Employee(string name, string department)
         {
             this.Name = name;
-            this.Department = department;
-            Console.WriteLine("Constructor with two parameters is called.");
+            this.Department = department; 
         }
     }
 }
