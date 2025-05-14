@@ -31,6 +31,7 @@ namespace CarInsurance.Controllers
 
         public IActionResult Privacy()
         {
+            ViewData["CarInsurance"] = "Car Insurance";
             return View();
         }
 

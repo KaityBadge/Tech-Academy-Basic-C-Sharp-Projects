@@ -1,4 +1,6 @@
-﻿namespace CarInsurance.Models
+﻿using Microsoft.EntityFrameworkCore;
+
+namespace CarInsurance.Models
 {
     public class Insuree
     {
@@ -13,20 +15,8 @@
         public string DUI { get; set; }
         public int SpeedingTickets { get; set; }
         public string CoverageType { get; set; }
-        public int Quote { get; set; }
+        public decimal Quote { get; set; }
 
-        public int Age
-        {
-            get
-            {
-                DateTime today = DateTime.Today;
-                int age = today.Year - DateOfBirth.Year;
-                if (DateOfBirth.Date > today.AddYears(-age))
-                {
-                    age--;
-                }
-                return age;
-            }
-        }
+        
     }
 }

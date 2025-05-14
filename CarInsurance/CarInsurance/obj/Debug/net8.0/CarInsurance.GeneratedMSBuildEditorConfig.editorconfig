@@ -32,6 +32,10 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/kaity/OneDrive/Desktop/Basic_C\#_Programs/Tech-Academy-Basic-C-Sharp-Projects/CarInsurance/CarInsurance/Views/Home/Insuree.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbnN1cmVlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/kaity/OneDrive/Desktop/Basic_C\#_Programs/Tech-Academy-Basic-C-Sharp-Projects/CarInsurance/CarInsurance/Views/Home/Insurees.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbnN1cmVlcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -40,8 +44,8 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kaity/OneDrive/Desktop/Basic_C\#_Programs/Tech-Academy-Basic-C-Sharp-Projects/CarInsurance/CarInsurance/Views/Insuree/AdminView.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdXJlZVxBZG1pblZpZXcuY3NodG1s
+[C:/Users/kaity/OneDrive/Desktop/Basic_C\#_Programs/Tech-Academy-Basic-C-Sharp-Projects/CarInsurance/CarInsurance/Views/Insuree/Admin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdXJlZVxBZG1pbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/kaity/OneDrive/Desktop/Basic_C\#_Programs/Tech-Academy-Basic-C-Sharp-Projects/CarInsurance/CarInsurance/Views/Insuree/Create.cshtml]

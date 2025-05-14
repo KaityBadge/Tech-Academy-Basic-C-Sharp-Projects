@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using CarInsurance.Data;
 using CarInsurance.Models;
+using Microsoft.Identity.Client;
 
 namespace CarInsurance.Controllers
 {
@@ -19,6 +20,15 @@ namespace CarInsurance.Controllers
         {
             _context = context;
         }
+
+
+        // GET: Insuree/Admin
+        public ActionResult Admin()
+        {
+            return View(_context.Insuree.ToList());
+        }
+
+
 
         // GET: Insurees
         public async Task<IActionResult> Index()
@@ -59,7 +69,7 @@ namespace CarInsurance.Controllers
         {
             if (ModelState.IsValid)
             {
-                insuree.Id = Guid.NewGuid();
+                insuree.Quote = CalculateQuote(insuree); //calculate the quote based on the user input
                 _context.Add(insuree);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
@@ -162,69 +172,81 @@ namespace CarInsurance.Controllers
 
         public decimal CalculateQuote(Insuree insuree)
         {
-            int age = insuree.Age;
-            decimal InsuranceQuote = 50; //initialize the base cost of insurance
+            insuree.Quote = 50.0M; //initialize the base cost of insurance
+
+            //Get age based on birthdate
+            int age = DateTime.Now.Year - insuree.DateOfBirth.Year;
+            //check if the birthday has occurred this year
+            if (insuree.DateOfBirth > DateTime.Now.AddYears(-age))
+            {
+                age--;
+            }
+
 
             //check if user is 18 or younger
             if (age <= 18) 
             {
-               InsuranceQuote += 100; 
+               insuree.Quote += 100.0M; 
             }
-
             //check if user is between 19 and 25
-            if (19 <= age && age <= 25)
+            else if (19 <= age && age <= 25)
             {
-                InsuranceQuote += 50;
+                insuree.Quote += 50.0M;
             }
-
             //check if user is 25 or older
-            if (age >= 26)
+            else if (age >= 26)
             {
-                InsuranceQuote += 25;
+                insuree.Quote += 25.0M;
             }
 
             //check if car year is after 2000
             if (insuree.CarYear < 2000)
             {
-                InsuranceQuote += 25;
+                insuree.Quote += 25.0M;
             }
             //check if car year is before 2015
-            if (insuree.CarYear > 2015)
+            else if (insuree.CarYear > 2015)
             {
-                InsuranceQuote += 25;
+                insuree.Quote += 25.0M;
             }
 
             //check if car make is a porsche
             if (insuree.CarMake.Equals("Porsche", StringComparison.OrdinalIgnoreCase)) //ignore case will allow upper and lower case letters
             {
-                InsuranceQuote += 25;
+                insuree.Quote += 25.0M;
 
                 //if the car make is a porche aand the model is 911 Carrera
                 if (insuree.CarModel.Equals("911 Carrera", StringComparison.OrdinalIgnoreCase))
                 {
-                    InsuranceQuote += 25;
+                    insuree.Quote += 25.0M;
                 }
             }
 
             //if speeding tickets is more than 0
             if (insuree.SpeedingTickets > 0)
             {
-                InsuranceQuote += insuree.SpeedingTickets * 10; //multiplpy number of tickets by 10 then add that to the basecost
+                insuree.Quote += insuree.SpeedingTickets * 10; //multiplpy number of tickets by 10 then add that to the basecost
             }
 
             //if user has a DUI add 25% of base cost to the total
             if (insuree.DUI.Equals("yes" , StringComparison.OrdinalIgnoreCase))
             {
-                InsuranceQuote *= 1.25M;
+                insuree.Quote *= 1.25M;
             }
 
             //if user wants full coverege add 50%
             if (insuree.CoverageType.Equals("full", StringComparison.OrdinalIgnoreCase))
             {
-                InsuranceQuote *= 1.50M;
+                insuree.Quote *= 1.5M;
             }
 
-            return insuree.Quote;
+            return insuree.Quote; //return the total cost of insurance
+
+            
+            //insuree.Quote = (Decimal)InsuranceQuote;
+            //return insuree.Quote;
+
+            //return View("AdminView");
 
         }
 
