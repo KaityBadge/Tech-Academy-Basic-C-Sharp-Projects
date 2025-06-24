@@ -1,7 +1,7 @@
 # C# & .NET Framework Projects
 This repo showcases several small projects I've developed using C# and the .NET Framework, including both MVC web applications and console applications. Each project demonstrates core programming concepts such as user input handling, business logic implementation, exception management, and database interaction.
 
-## 🔧[Technologies Used](technologies-used)
+## 🔧[Technologies Used](#technologies-used)
 ## 💾Projects Included:
 - [Car Insurance Approval](#carinsuranceapproval-mvc-web-application)
 - [Package Shipping Quote](#packageshippingquote-console-application)
