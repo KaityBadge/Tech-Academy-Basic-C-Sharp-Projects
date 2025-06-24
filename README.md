@@ -3,12 +3,12 @@ This repo showcases several small projects I've developed using C# and the .NET 
 
 ## 🔧[Technologies Used](technologies-used)
 ## 💾Projects Included:
-- [Car Insurance Approval](carinsuranceapproval--mvc-web-application)
-- [Package Shipping Quote](packageshippingquote--console-application)
-- [Twenty One Card Game](twentyone--console-application)
-- [Newsletter SignUp](newslettersignup--mvc-web-application)
+- [Car Insurance Approval](#carinsuranceapproval-mvc-web-application)
+- [Package Shipping Quote](#packageshippingquote-console-application)
+- [Twenty One Card Game](#twentyone-console-application)
+- [Newsletter SignUp](#newslettersignup-mvc-web-application)
 
-🚗### CarInsuranceApproval (MVC Web Application)
+### 🚗CarInsuranceApproval (MVC Web Application)
 A web-based insurance quote calculator built with ASP.NET MVC.
 <br> Users can input personal and vehicle information to receive a dynamically generated insurance qupte based on defined business logic.
 **Features:**
@@ -18,7 +18,7 @@ A web-based insurance quote calculator built with ASP.NET MVC.
 - Database integration for persistent data storage
 - Clear separation of business logic and UI rendering
 
-📦### PackageShippingQuote (Console Application)
+### 📦PackageShippingQuote (Console Application)
 A simple console app that calculates package shipping costs based on user input.
 **Features:**
 - Input validation using conditional logic
@@ -26,7 +26,7 @@ A simple console app that calculates package shipping costs based on user input.
 - Demonstrates flow control, arithmetic operations, and user prompts
 - Focus on clarity and policy-based conditional evaluation
 
-🃏### TwentyOne (Console Application)
+### 🃏TwentyOne (Console Application)
 A console-based simulation of the classic casino game Blackjack (21), themed as a virtual visit to the "Grand Hotel and Casino"
 **Features:**
 - Interactive gameplay with user input prompts
@@ -35,7 +35,7 @@ A console-based simulation of the classic casino game Blackjack (21), themed as 
 - SQL integration for loggin player activity and game data
 - Demonstrates object-oriented programming and robust error handling
 
-📰### NewsLetterSignUp (MVC Web Application)
+### 📰NewsLetterSignUp (MVC Web Application)
 A basic newsletter signup app built using ASP.NET MVC, HTML, and SQL Server.
 **Features:**
 - HTML form collects user contact info
@@ -45,7 +45,7 @@ A basic newsletter signup app built using ASP.NET MVC, HTML, and SQL Server.
 - Clean separation of responsibilities between front-end markup and back-end logic
 
 
-🔧## Technologies Used
+## 🔧Technologies Used
 - C#
 - .NET Framework
 - ASP.NET MVC
